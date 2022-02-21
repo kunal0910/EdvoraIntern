@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Edvora Intern</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //state list
+    <string-array name="state_array">
+        <item>Maharashtra</item>
+        <item>Punjab</item>
+        <item>Madhya Pradesh</item>
+        <item>Uttar Pradesh</item>
+    </string-array>
+    //city list
+    <string-array name="city_array">
+        <item>Aurangabad</item>
+        <item>Mumbai</item>
+        <item>Nagpur</item>
+        <item>Pune</item>
+        <item>Amritsar</item>
+        <item>Jalandhar</item>
+        <item>Ludhiana</item>
+        <item>Bhopal</item>
+        <item>Indore</item>
+        <item>Jabalpur</item>
+        <item>Ghaziabad</item>
+        <item>Lucknow</item>
+        <item>Kanpur</item>
+
+    </string-array>
+    <string-array name="Maharashtra">
+        <item>Aurangabad</item>
+        <item>Mumbai</item>
+        <item>Nagpur</item>
+        <item>Pune</item>
+    </string-array>
+    <string-array name="Punjab">
+        <item>Amritsar</item>
+        <item>Jalandhar</item>
+        <item>Ludhiana</item>
+    </string-array>
+    <string-array name="MP">
+        <item>Bhopal</item>
+        <item>Indore</item>
+        <item>Jabalpur</item>
+    </string-array>
+    <string-array name="UP">
+        <item>Ghaziabad</item>
+        <item>Lucknow</item>
+        <item>Kanpur</item>
+    </string-array>
+</resources>
